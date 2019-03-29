@@ -1,0 +1,30 @@
+/*
+* Chloe Sylvester
+* 28 March, 2019
+* Favorite Summertime Things
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+
+} 
+img { width: 350px; height: 300px; } 
+
+#codyko { width: 350px; height: 300px; } /* this shows an image of the ocean */
+
+#demondragonfly { width: 350px; height: 300px; } /* this image shows a bug that is not a good bug*/
+
+#fruitydrink { width: 350px; height: 300px; } /* an image shows a fruity drink looking out at the beach*/
+
+figure { float: right; }
+
+#ocean { float: left; } /* this puts the ocean picture to the very left of the screen */
+
+#beverage { float: right; } /* this put the drink on the very right of the page */
